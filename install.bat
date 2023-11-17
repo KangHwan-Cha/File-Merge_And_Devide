@@ -1,0 +1,1 @@
+pyinstaller -F --clean -w --icon=.\Ico\pastel_note.ico main_dragNdrop.py
